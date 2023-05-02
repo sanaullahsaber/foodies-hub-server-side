@@ -5,24 +5,7 @@
     "years_of_experience": 10,
     "number_of_recipes": 150,
     "likes": 500,
-    "chef_picture": "../img/top-chiefs/img_1.jpg",
-    "food_recipes": [
-      {
-        "recipe_name": "Shorshe Ilish",
-        "description": "Hilsa fish cooked in a mustard sauce",
-        "difficulty": "Medium"
-      },
-      {
-        "recipe_name": "Chingri Macher Malai Curry",
-        "description": "Prawn curry cooked in coconut milk and spices",
-        "difficulty": "Easy"
-      },
-      {
-        "recipe_name": "Bhuna Khichuri",
-        "description": "Rice and lentils cooked with spices and meat",
-        "difficulty": "Medium"
-      }
-    ]
+    "chef_picture": "https://i.ibb.co/yftLybX/img-1.jpg"
   },
   {
     "id": 2,
@@ -30,24 +13,7 @@
     "years_of_experience": 15,
     "number_of_recipes": 250,
     "likes": 800,
-    "chef_picture": "../img/top-chiefs/img_2.jpg",
-    "food_recipes": [
-      {
-        "recipe_name": "Kacchi Biryani",
-        "description": "Aromatic rice dish with marinated meat, slow-cooked in a pot",
-        "difficulty": "Hard"
-      },
-      {
-        "recipe_name": "Dhaka-style Chicken Roast",
-        "description": "Spicy roasted chicken with a crispy outer layer",
-        "difficulty": "Medium"
-      },
-      {
-        "recipe_name": "Shatkora Beef Curry",
-        "description": "Beef curry with a tangy citrus fruit called Shatkora",
-        "difficulty": "Easy"
-      }
-    ]
+    "chef_picture": "https://i.ibb.co/TgX5xrB/img-2.jpg"
   },
   {
     "id": 3,
@@ -55,24 +21,7 @@
     "years_of_experience": 8,
     "number_of_recipes": 100,
     "likes": 300,
-    "chef_picture": "../img/top-chiefs/img_3.jpg",
-    "food_recipes": [
-      {
-        "recipe_name": "Bhapa Pitha",
-        "description": "Steamed rice cakes with coconut and jaggery filling",
-        "difficulty": "Easy"
-      },
-      {
-        "recipe_name": "Kala Bhuna",
-        "description": "Spicy beef curry slow-cooked with onions and chilies",
-        "difficulty": "Hard"
-      },
-      {
-        "recipe_name": "Lau Ghonto",
-        "description": "Bottle gourd curry with lentils and spices",
-        "difficulty": "Medium"
-      }
-    ]
+    "chef_picture": "https://i.ibb.co/NZGzdsr/img-3.jpg"
   },
   {
     "id": 4,
@@ -80,24 +29,7 @@
     "years_of_experience": 12,
     "number_of_recipes": 180,
     "likes": 600,
-    "chef_picture": "../img/top-chiefs/img_4.jpg",
-    "food_recipes": [
-      {
-        "recipe_name": "Morog Pulao",
-        "description": "Chicken and rice dish cooked in aromatic spices and ghee",
-        "difficulty": "Medium"
-      },
-      {
-        "recipe_name": "Chapli Kabab",
-        "description": "Spiced beef kebab patties",
-        "difficulty": "Easy"
-      },
-      {
-        "recipe_name": "Pitha",
-        "description": "Assorted types of sweet and savory rice cakes",
-        "difficulty": "Easy"
-      }
-    ]
+    "chef_picture": "https://i.ibb.co/S5jDjCt/img-4.jpg"
   },
   {
     "id": 5,
@@ -105,24 +37,7 @@
     "years_of_experience": 7,
     "number_of_recipes": 120,
     "likes": 450,
-    "chef_picture": "../img/top-chiefs/img_5.jpg",
-    "food_recipes": [
-      {
-        "recipe_name": "Shahi Morog Pulao",
-        "description": "Royal chicken and rice dish cooked with saffron and nuts",
-        "difficulty": "Hard"
-      },
-      {
-        "recipe_name": "Mughlai Paratha",
-        "description": "Stuffed paratha with minced meat and spices",
-        "difficulty": "Medium"
-      },
-      {
-        "recipe_name": "Aloo Bhorta",
-        "description": "Mashed potatoes with mustard oil and spices",
-        "difficulty": "Easy"
-      }
-    ]
+    "chef_picture": "https://i.ibb.co/cQb8STH/img-5.jpg"
   },
   {
     "id": 6,
@@ -130,23 +45,6 @@
     "years_of_experience": 9,
     "number_of_recipes": 140,
     "likes": 550,
-    "chef_picture": "../img/top-chiefs/img_6.jpg",
-    "food_recipes": [
-      {
-        "recipe_name": "Chitol Macher Muitha",
-        "description": "Fish meatballs cooked in a spicy gravy",
-        "difficulty": "Medium"
-      },
-      {
-        "recipe_name": "Bhapa Doi",
-        "description": "Bengali-style steamed yogurt dessert",
-        "difficulty": "Easy"
-      },
-      {
-        "recipe_name": "Shorshe Begun",
-        "description": "Eggplant cooked in a mustard sauce",
-        "difficulty": "Medium"
-      }
-    ]
+    "chef_picture": "https://i.ibb.co/HG9FNLW/img-6.jpg"
   }
 ]
