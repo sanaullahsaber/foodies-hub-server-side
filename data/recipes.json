@@ -1,7 +1,8 @@
 [
   {
-    "id": 1,
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "recipe_name": "Shorshe Ilish",
+    "category_id": "1",
     "ingredients": [
       "2 large hilsa fish, cut into pieces",
       "4 tbsp mustard oil",
@@ -31,8 +32,9 @@
   },
 
   {
-    "id": 1,
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "recipe_name": "Chingri Macher Malai Curry",
+    "category_id": "1",
     "ingredients": [
       "500g prawns, deveined and cleaned",
       "1 cup coconut milk",
@@ -64,8 +66,9 @@
   },
 
   {
-    "id": 1,
+    "_id": "f69a695f037cd9484cecaea37ca71011",
     "recipe_name": "Bhuna Khichuri",
+    "category_id": "1",
     "ingredients": [
       "1 cup Gobindobhog rice",
       "1 cup moong dal",
@@ -102,8 +105,9 @@
   },
 
   {
-    "id": 2,
+    "_id": "f69a695f037cd9484cecaea37ca71012",
     "recipe_name": "Kacchi Biryani",
+    "category_id": "2",
     "ingredients": [
       "1 kg basmati rice, soaked in water for 30 minutes",
       "1 kg lamb meat, cut into large chunks",
@@ -151,8 +155,9 @@
   },
 
   {
-    "id": 2,
+    "_id": "11468ed61aee84de492a8b04158a22f9",
     "recipe_name": "Dhaka-style Chicken Roast",
+    "category_id": "2",
     "ingredients": [
       "1 whole chicken, cleaned and washed",
       "1/2 cup plain yogurt",
@@ -190,8 +195,9 @@
     "photo_url": "https://i.ibb.co/3rvh1ws/Dhaka-style-Chicken-Roast.jpg"
   },
   {
-    "id": 2,
+    "_id": "11468ed61aee84de492a8b04158a22f0",
     "recipe_name": "Shatkora Beef Curry",
+    "category_id": "2",
     "ingredients": [
       "1 kg beef, cut into medium-sized pieces",
       "3 shatkora (citrus fruit), sliced",
@@ -223,8 +229,9 @@
   },
 
   {
-    "id": 3,
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
     "recipe_name": "Bhapa Pitha",
+    "category_id": "3",
     "ingredients": [
       "1 cup rice flour",
       "1/2 cup grated coconut",
@@ -246,8 +253,9 @@
   },
 
   {
-    "id": 3,
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
     "recipe_name": "Kala Bhuna",
+    "category_id": "3",
     "ingredients": [
       "1 kg beef, cut into medium-sized pieces",
       "3 onions, finely chopped",
@@ -278,8 +286,9 @@
   },
 
   {
-    "id": 3,
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
     "recipe_name": "Lau Ghonto",
+    "category_id": "3",
     "ingredients": [
       "1 medium-sized bottle gourd (lauki/dudhi), peeled and diced",
       "1 potato, peeled and diced",
@@ -311,8 +320,9 @@
   },
 
   {
-    "id": 4,
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
     "recipe_name": "Morog Pulao",
+    "category_id": "4",
     "ingredients": [
       "500 grams basmati rice",
       "1 whole chicken, cut into pieces",
@@ -349,8 +359,9 @@
   },
 
   {
-    "id": 4,
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
     "recipe_name": "Chapli Kabab",
+    "category_id": "4",
     "ingredients": [
       "1 lb ground beef",
       "1 onion, finely chopped",
@@ -377,8 +388,9 @@
     "photo_url": "https://i.ibb.co/Mh91N8w/Chapli-Kabab.jpg"
   },
   {
-    "id": 4,
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
     "recipe_name": "Pitha",
+    "category_id": "4",
     "ingredients": [
       "2 cups rice flour",
       "1 cup water",
@@ -400,8 +412,9 @@
   },
 
   {
-    "id": 5,
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
     "recipe_name": "Shahi Morog Pulao",
+    "category_id": "5",
     "ingredients": [
       "2 cups Basmati rice",
       "1 lb chicken, cut into small pieces",
@@ -435,8 +448,9 @@
   },
 
   {
-    "id": 5,
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
     "recipe_name": "Mughlai Paratha",
+    "category_id": "5",
     "ingredients": [
       "For the dough:",
       "- 2 cups all-purpose flour",
@@ -471,8 +485,9 @@
   },
 
   {
-    "id": 5,
+    "_id": "7c4dfea0fafddc813673282a428429b7",
     "recipe_name": "Aloo Bhorta",
+    "category_id": "5",
     "ingredients": [
       "4 large potatoes",
       "1 onion, finely chopped",
@@ -492,8 +507,9 @@
   },
 
   {
-    "id": 6,
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
     "recipe_name": "Chitol Macher Muitha",
+    "category_id": "6",
     "ingredients": [
       "1 lb chitol fish, ground",
       "1 onion, finely chopped",
@@ -523,8 +539,9 @@
   },
 
   {
-    "id": 6,
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
     "recipe_name": "Bhapa Doi",
+    "category_id": "6",
     "ingredients": [
       "1 can (14 oz) sweetened condensed milk",
       "1 cup plain yogurt",
@@ -545,8 +562,9 @@
   },
 
   {
-    "id": 6,
+    "_id": "919db97c34e0778b387dd40cdfa08130",
     "recipe_name": "Shorshe Begun",
+    "category_id": "6",
     "ingredients": [
       "1 large eggplant",
       "1 onion, finely chopped",
