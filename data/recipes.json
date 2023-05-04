@@ -1,6 +1,14 @@
 [
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+
+    "chef_name": "Shahidul Alam",
+    "description": "Shahidul Alam is a seasoned chef with 10 years of experience. He has created 150 delicious recipes and has amassed over 500 likes on his profile. His cooking style is focused on fusion dishes that blend traditional and modern techniques, creating unique and unforgettable flavors.",
+    "years_of_experience": "Experience: 10 years",
+    "number_of_recipes": "Number of Recipes: 150",
+    "likes": "Likes: 500",
+    "chef_picture": "https://i.ibb.co/yftLybX/img-1.jpg",
+    
     "recipe_name": "Shorshe Ilish",
     "category_id": "1",
     "ingredients": [
@@ -106,6 +114,14 @@
 
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
+
+    "chef_name": "Nurul Islam",
+    "years_of_experience": "Experience: 15 years",
+    "number_of_recipes": "Number of Recipes: 250",
+    "likes": "Likes: 800",
+    "chef_picture": "https://i.ibb.co/TgX5xrB/img-2.jpg",
+    "description": "Nurul Islam is a highly experienced chef with 15 years of experience. He has created over 250 recipes and has garnered over 800 likes on his profile. Nurul's cooking style is known for its complexity and his ability to create dishes with a wide range of flavors.",
+
     "recipe_name": "Kacchi Biryani",
     "category_id": "2",
     "ingredients": [
@@ -230,6 +246,14 @@
 
   {
     "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+
+    "chef_name": "Farhan Ahmed",
+    "years_of_experience": "Experience: 8 years",
+    "number_of_recipes": "Number of Recipes: 100",
+    "likes": "Likes: 300",
+    "chef_picture": "https://i.ibb.co/NZGzdsr/img-3.jpg",
+    "description": "Farhan Ahmed is a skilled chef with 8 years of experience. She has created 100 recipes and has over 300 likes on her profile. Farhan's cooking style is focused on healthy and nutritious dishes that are both flavorful and satisfying.",
+
     "recipe_name": "Bhapa Pitha",
     "category_id": "3",
     "ingredients": [
@@ -321,6 +345,14 @@
 
   {
     "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+
+    "chef_name": "Mashrur Hossain",
+    "years_of_experience": "Experience: 12 years",
+    "number_of_recipes": "Number of Recipes: 180",
+    "likes": "Likes: 600",
+    "chef_picture": "https://i.ibb.co/S5jDjCt/img-4.jpg",
+    "description": "Mashrur Hossain is a seasoned chef with 12 years of experience. He has created 180 recipes and has amassed over 600 likes on his profile. Mashrur's cooking style is focused on traditional and authentic dishes that showcase the flavors and techniques of his home country.",
+
     "recipe_name": "Morog Pulao",
     "category_id": "4",
     "ingredients": [
@@ -413,6 +445,14 @@
 
   {
     "_id": "cd2b53655737cc4077542baea9f8f75d",
+
+    "chef_name": "Naim Hasan",
+    "years_of_experience": "Experience: 7 years",
+    "number_of_recipes": "Number of Recipes: 120",
+    "likes": "Likes: 450",
+    "chef_picture": "https://i.ibb.co/cQb8STH/img-5.jpg",
+    "description": "Naim Hasan is a talented chef with 7 years of experience. She has created 120 recipes and has over 450 likes on her profile. Naim's cooking style is focused on simple and delicious dishes that can be made with everyday ingredients.",
+
     "recipe_name": "Shahi Morog Pulao",
     "category_id": "5",
     "ingredients": [
@@ -508,6 +548,14 @@
 
   {
     "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+
+    "chef_name": "Abdullah Al Mamun",
+    "years_of_experience": "Experience: 9 years",
+    "number_of_recipes": "Number of Recipes: 140",
+    "likes": "Likes: 550",
+    "chef_picture": "https://i.ibb.co/HG9FNLW/img-6.jpg",
+    "description": "Abdullah Al Mamun is a skilled chef with 9 years of experience. He has created 140 recipes and has over 550 likes on his profile. Abdullah's cooking style is focused on combining bold and unique flavors to create dishes that are both exciting and delicious.",
+
     "recipe_name": "Chitol Macher Muitha",
     "category_id": "6",
     "ingredients": [
