@@ -6,7 +6,12 @@ const port = process.env.PORT || 5000;
 const chefs = require('./data/chefs.json');
 const recipes = require('./data/recipes.json');
 
-app.use(cors());
+const corsConfig = {
+  origin: '*',
+  Credential: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE']
+}
+app.use(cors(corsConfig))
 
 app.get('/', (req, res) => {
   res.send('Foodies Hub is running')
